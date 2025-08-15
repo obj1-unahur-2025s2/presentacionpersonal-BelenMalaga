@@ -14,4 +14,4 @@
 - Tengo dos hijos chiquitos Isa y Vitto
 
 
- ![Foto binario] (https://cdn-wcsm.alura.com.br/2025/04/banner.jpg)
+ ![Foto binario](https://cdn-wcsm.alura.com.br/2025/04/banner.jpg)
